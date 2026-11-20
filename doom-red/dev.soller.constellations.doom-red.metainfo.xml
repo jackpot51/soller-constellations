@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="generic">
+  <id>dev.soller.constellations.doom-red</id>
+  <name>DOOM Red</name>
+  <summary>Cosmic theme bundle</summary>
+  <description>
+    <p>A COSMIC theme bundle carrying the complete look for one mode: the theme, its builder settings, and the background it is shown with.</p>
+  </description>
+  <metadata_license>CC0-1.0</metadata_license>
+  <icon type="stock">preferences-other-symbolic</icon>
+  <custom>
+    <value key="x-cosmic-format">1</value>
+    <value key="x-cosmic-version">1.0.0</value>
+    <value key="x-cosmic-slug">doom-red</value>
+    <value key="x-cosmic-mode">dark</value>
+    <value key="x-cosmic-parts">Theme,Builder,Background</value>
+    <value key="x-cosmic-assets">[(id:"dev.soller.constellations.doom-red.wallpapers",kind:Wallpaper,path:"data/cosmic/doom-red/wallpapers",name:"doom-red")]</value>
+  </custom>
+</component>
